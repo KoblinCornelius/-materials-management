@@ -1,2 +1,4 @@
-# -materials-management
- materials management
+mkdir my-website
+cd my-website
+git init
+
